@@ -1,2 +1,0 @@
-
-OPEN_AI_TOKEN = "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"
